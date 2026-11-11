@@ -132,19 +132,19 @@ The following three dashboards highlight selected parts of the broader workbook.
 
 Compares sales values across areas and bedroom configurations, with additional analysis by bathroom configuration.
 
-
+![Area and BHK Sales Analysis](./Screenshots/01_Area_and_BHK_Sales.png)
 
 ### 2. Quarterly Sales Trends
 
 Examines quarterly sales activity across years and compares annual and quarterly performance.
 
-
+![Quarterly Sales Trends](./Screenshots/02_Quarterly_Sales_Trends.png)
 
 ### 3. Property Pricing and Sales Seasonality
 
 Compares the top 10 high-cost and low-cost properties and explores quarterly sales price patterns across years.
 
-
+![Property Pricing and Sales Seasonality](./Screenshots/03_Property_Pricing_and_Seasonality.png)
 
 ## Storyboard: Key Observations
 
